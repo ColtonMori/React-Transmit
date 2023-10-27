@@ -103,4 +103,4 @@ on Twitter.
 
 ## License
 
-BSD 3-Clause license. Copyright © 2015, Rick Wong. All rights reserved.
+BSD 3-Clause license. Copyright © 2015, Colton Mori. All rights reserved.
